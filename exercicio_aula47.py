@@ -1,4 +1,4 @@
-nome = input('Digite seu nome: ')
+nome = input('Digite seu nome por favor: ')
 idade = input('Digite sua idade: ')
 tamanho = len(nome)
 
